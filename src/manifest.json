@@ -1,0 +1,13 @@
+{
+	"manifest_version": 3,
+	"name": "Banana Joker",
+	"version": "0.1.0",
+	"description": "LLM tells you a joke",
+	"action": {
+		"default_popup": "popup.html"
+
+	},
+	"permissions": [
+		"storage"
+	]
+}
